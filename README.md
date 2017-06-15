@@ -1,5 +1,5 @@
 電話塊 – Phone Clump
-===================
+====================
 
 On AT&T, the pricing for unlimited plus lines is as follows:
 
@@ -7,13 +7,13 @@ On AT&T, the pricing for unlimited plus lines is as follows:
 2 lines: $145/month
 10 lines: $310/month
 
-Each additional line after the 2nd is $20, so at 10 lines, the average cost per line is $31/month.
+Each additional line after the 2nd is $20, so at 10 lines the average cost per line is $31/month.
 
-I'd like to get 9 friends together to take advantage of this discount. It is a 66% discount, and a savings of $720 dollars a year.
+I'd like to get 9 friends together to take advantage of this. Versus individual plans, it's a 66% discount; a savings of $720 dollars a year.
 
 However, the more administration that I have to do, the less it would be worth it for me to organize this thing, so there would be some pretty restrictive caveats:
 
-1. Since getting and tracking payment from 9 people every month to pay would be a huge time sink, I would collect 6 months of payment up front. This means a flat payment of $186 every six months, payable via paypal or bitcoin.
+1. Since getting and tracking payment from 9 people every month would be a huge time sink, I would collect 6 months of payment up front. This means a flat payment of $186 every six months, payable via paypal or bitcoin.
 
 2. No refunds! However, the savings are so significant that if you pay the ~$186 and go back to an individual plan after 2 months, you would only be out $6.
 
@@ -21,11 +21,11 @@ However, the more administration that I have to do, the less it would be worth i
 
 4. I would place blocks on all the lines for anything that might incur an additional charge. This means no international calls, no international roaming, no premium texts, no premium numbers.
 
-5. I wouldn't allow porting numbers in or out. This is probably the most restrictive caveat. The way that you could make this work if you want to keep your number is to port your current number to google voice. On android, making calls and texts via google voice is pretty much seamless, and additionally lets you make calls and text, and check your voice mail on your computer. On iOS, it's a little more annoying, but definitely doable.
+5. I wouldn't allow porting numbers in or out. This is probably the most restrictive caveat. The way that you could make this work if you want to keep your number is to port your current number to google voice. On android, making calls and texting via google voice is seamless, and additionally lets you make calls and text, and check your voice mail from a browser. On iOS you have to go through the Google Voice app, but it's definitely doable.
 
 6. Since there are no contracts with AT&T, the prices could go up, at which point I might have to charge people more money or disband the clump.
 
-7. At 5 months into the 6 month period, I'll ask everyone if the want to renew, and if so collect payment for the next 6 months.
+7. At 5 months into the 6 month period, I'll ask everyone if they want to renew, and if so collect payment for the next 6 month period.
 
 7. Should you decide not to renew at the end of a 6 month period, you would need to send your sim card back to me, either in person or via post.
 
