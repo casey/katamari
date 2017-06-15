@@ -3,13 +3,15 @@
 
 On AT&T, the pricing for unlimited plus lines is as follows:
 
-1 line: $90/month
-2 lines: $145/month
+```
+ 1  line: $90/month
+ 2 lines: $145/month
 10 lines: $310/month
+```
 
 Each additional line after the 2nd is $20, so at 10 lines the average cost per line is $31/month.
 
-I'd like to get 9 friends together to take advantage of this. Versus individual plans, it's a 66% discount; a savings of $720 dollars a year.
+I'd like to get 9 friends together to take advantage of this. It would be a 66% discount over individual plans, and save each participant $720 dollars per year.
 
 However, the more administration that I have to do, the less it would be worth it for me to organize this thing, so there would be some pretty restrictive caveats:
 
@@ -23,7 +25,6 @@ However, the more administration that I have to do, the less it would be worth i
 
 5. I would place blocks on all the lines for anything that might incur an additional charge. This means no international calls, no international roaming, no premium texts, no premium numbers.
 
-
 6. Since there are no contracts with AT&T, the prices could go up, at which point I might have to charge people more money or disband the clump.
 
 7. At 5 months into the 6 month period, I'll ask everyone if they want to renew, and if so collect payment for the next 6 month period.
@@ -31,5 +32,7 @@ However, the more administration that I have to do, the less it would be worth i
 8. Should you decide not to renew at the end of a 6 month period, you would need to send your sim card back to me, either in person or via post.
 
 9. You would not have administrative access to the account. This means that, in case of a problem, you have to go through me instead of being able to call customer service. This is mainly a security issue. If anyone is using their phone for 2 factor authentication, or as a recovery option for accounts, this means that they only have to trust me, and not the other 8 people on the plan.
+
+10. Barring any unforseen complications which would force me to stop, I would promise to run this thing for two 6 month periods. At the end of the second period, if it turns out to have been too much of a pain in the ass, I reserve the right to stop running the plan, and cancel the other 9 lines. I sincerely hope that it isn't too annoying, and to run it for as long as it saves money, so hopefully it doesn't come to this.
 
 I haven't fully decided whether this is a good idea or not. If you're interested, or have concerns or questions, do let me know in the facebook thread!
