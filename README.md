@@ -1,7 +1,7 @@
 電話塊 – Phone Clump
 ====================
 
-On AT&T, the pricing for unlimited plus lines is as follows:
+With AT&T, the pricing for unlimited plus lines is as follows:
 
 ```
  1  line: $90/month
